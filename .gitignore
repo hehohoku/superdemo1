@@ -1,0 +1,28 @@
+# 忽略的文件 的配置信息
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse project
+.project
+.classpath
+.settings/
+
+# Gradle project
+.gradle/
+build/
+
+# Android files
+bin/
+gen/
+out/
+local.properties
+
+# Temp files
+*.bak
+*.tmp
+*.temp
+
+Thumbs.db
+.DS_Store
